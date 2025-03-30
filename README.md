@@ -1,41 +1,15 @@
-# DNA-sequence-analysis-with-Python-
-DNA Sequence Analysis 🧬
+# DNA Sequence Analysis with Python 🧬  
 
-This Python script analyzes DNA sequences by calculating GC content, AT ratio, and identifying motifs. It also visualizes nucleotide composition using a bar chart.
+This Python script analyzes DNA sequences, calculating GC content, AT ratio, and identifying motifs. It also provides a visualization of nucleotide composition.  
 
-Features
+# 🚀 Features  
+✔ Calculate GC Content  
+✔ Compute AT Ratio  
+✔ Identify Specific Motifs in DNA  
+✔ Visualize Nucleotide Composition  
 
-✔ Calculate GC Content
-✔ Compute AT Ratio
-✔ Find specific motifs in DNA
-✔ Visualize nucleotide composition
-
-How to Run
-
-Make sure you have Python installed, then run the script using:
-
-python dna_analysis.py
-
-Example Output
-
-GC Content: 52.94%  
-AT Ratio: 1.33  
-Motif 'CGT' found at positions: [5, 14, 25]
-
-Dependencies
-
-This script requires Matplotlib for visualization. Install it using:
-
-pip install matplotlib
-
-Contributions
-
-Feel free to fork this repository and contribute improvements!
-
-Author
-
-Shravya R S
-📧 rsshravya4@gmail.com
-🔗 GitHub Profile
-
-
+# 🔧 How to Run  
+1. Install Python  
+2. Run the script using:  
+   ```sh
+   python dna_analysis.py
